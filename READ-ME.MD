@@ -11,7 +11,8 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:-->
 
-<h1>I'm Natasha </h1>
+<h1>i'm natasha </h1>
+
 <h2>front-end dev</h2>
 <h3>welcome to the hub!</h3>
 
